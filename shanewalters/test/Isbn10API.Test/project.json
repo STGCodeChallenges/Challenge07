@@ -1,0 +1,15 @@
+{
+    "compilationOptions": {
+        "warningsAsErrors": true
+    },
+    "dependencies": {
+        "Xunit.KRunner": "1.0.0-*",
+        "Support": ""
+    },
+    "commands": {
+        "test": "Xunit.KRunner"
+    },
+    "frameworks": {
+        "aspnet50": { }
+    }
+}
