@@ -1,0 +1,12 @@
+﻿{
+    "version": "1.0.0-*",
+    "dependencies": {
+        "Support": ""
+    },
+    "commands": {
+        "run": "run"
+    },
+    "frameworks": {
+        "aspnet50": { }
+    }
+}
