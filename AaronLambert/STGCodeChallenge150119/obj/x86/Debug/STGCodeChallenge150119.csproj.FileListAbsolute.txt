@@ -1,0 +1,8 @@
+c:\users\stguser\documents\visual studio 2013\Projects\STGCodeChallenge150119\STGCodeChallenge150119\bin\Debug\STGCodeChallenge150119.exe
+c:\users\stguser\documents\visual studio 2013\Projects\STGCodeChallenge150119\STGCodeChallenge150119\bin\Debug\STGCodeChallenge150119.pdb
+c:\users\stguser\documents\visual studio 2013\Projects\STGCodeChallenge150119\STGCodeChallenge150119\obj\x86\Debug\STGCodeChallenge150119.csprojResolveAssemblyReference.cache
+c:\users\stguser\documents\visual studio 2013\Projects\STGCodeChallenge150119\STGCodeChallenge150119\obj\x86\Debug\STGCodeChallenge150119.Form1.resources
+c:\users\stguser\documents\visual studio 2013\Projects\STGCodeChallenge150119\STGCodeChallenge150119\obj\x86\Debug\STGCodeChallenge150119.Properties.Resources.resources
+c:\users\stguser\documents\visual studio 2013\Projects\STGCodeChallenge150119\STGCodeChallenge150119\obj\x86\Debug\STGCodeChallenge150119.csproj.GenerateResource.Cache
+c:\users\stguser\documents\visual studio 2013\Projects\STGCodeChallenge150119\STGCodeChallenge150119\obj\x86\Debug\STGCodeChallenge150119.exe
+c:\users\stguser\documents\visual studio 2013\Projects\STGCodeChallenge150119\STGCodeChallenge150119\obj\x86\Debug\STGCodeChallenge150119.pdb
