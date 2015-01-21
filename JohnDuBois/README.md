@@ -4,11 +4,13 @@ online at http://repl.it/languages/Scheme/
 The code can be run on your source data by invoking one of the validation functions like:
 
 (validisbn10? "0345538986")
+
 (validisbn13? "9780345538987")
 
 The ISBN-10 and ISBN-13 generator functions can be invoked like:
 
 (genisbn10)
+
 (genisbn13)
 
 * A note about the BIWA Scheme engine available at http://repl.it/languages/Scheme/. While a decent
