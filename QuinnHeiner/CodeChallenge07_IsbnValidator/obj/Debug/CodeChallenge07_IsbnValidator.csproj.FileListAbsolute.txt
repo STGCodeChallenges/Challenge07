@@ -1,0 +1,6 @@
+C:\Users\Quinn Heiner\Dropbox\Work\STG\Training\STGCodeChallenges\CodeChallenge07_IsbnValidator\bin\Debug\CodeChallenge07_IsbnValidator.exe.config
+C:\Users\Quinn Heiner\Dropbox\Work\STG\Training\STGCodeChallenges\CodeChallenge07_IsbnValidator\bin\Debug\CodeChallenge07_IsbnValidator.exe
+C:\Users\Quinn Heiner\Dropbox\Work\STG\Training\STGCodeChallenges\CodeChallenge07_IsbnValidator\bin\Debug\CodeChallenge07_IsbnValidator.pdb
+C:\Users\Quinn Heiner\Dropbox\Work\STG\Training\STGCodeChallenges\CodeChallenge07_IsbnValidator\obj\Debug\CodeChallenge07_IsbnValidator.csprojResolveAssemblyReference.cache
+C:\Users\Quinn Heiner\Dropbox\Work\STG\Training\STGCodeChallenges\CodeChallenge07_IsbnValidator\obj\Debug\CodeChallenge07_IsbnValidator.exe
+C:\Users\Quinn Heiner\Dropbox\Work\STG\Training\STGCodeChallenges\CodeChallenge07_IsbnValidator\obj\Debug\CodeChallenge07_IsbnValidator.pdb
